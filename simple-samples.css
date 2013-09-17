@@ -1,0 +1,16 @@
+  p { 
+  	font-family: san-serif;
+  	color: #000000; 
+  }
+
+  .txtCenter { 
+    text-align: center ; 
+  }
+  
+  #byline { 
+    font-size: 14px; 
+  }
+
+  header a { 
+    color : #00ff00; 
+  }
